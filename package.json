@@ -1,0 +1,22 @@
+{
+  "name": "f3-logger",
+  "version": "1.0.0",
+  "description": "Log support for both Browser and Node applications",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Khanon/f3-logger.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Khanon/f3-logger/issues"
+  },
+  "homepage": "https://github.com/Khanon/f3-logger#readme",
+  "devDependencies": {
+    "@types/node": "^17.0.21"
+  }
+}
